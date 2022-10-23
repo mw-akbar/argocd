@@ -1,8 +1,8 @@
 apiVersion: v2
 description: A Helm chart for general app
-home: https://github.com/zackijack/charts
+home: https://github.com/machtwatch/helm-private-repo/tree/master/charts
 name: app
 sources:
-- https://github.com/zackijack/charts
+- https://github.com/machtwatch/helm-private-repo/tree/master/charts
 type: application
-version: 0.1.4
+version: 0.1.5
